@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Professional academic profile of Dr. V. Veeranna">
+<title>Dr. V. Veeranna | Academic & Research Profile</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="header">
+  <div class="container nav">
+    <a class="logo" href="#home">
+      <span class="logo-box">VV</span>
+      <span><b>Dr. V. Veeranna</b><small>Academic • Research • Leadership</small></span>
+    </a>
+    <button class="menu" aria-label="Open menu">☰</button>
+    <nav id="nav">
+      <a href="#about">About</a>
+      <a href="#education">Education</a>
+      <a href="#career">Career</a>
+      <a href="#research">Research</a>
+      <a href="#leadership">Leadership</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section id="home" class="hero">
+  <div class="hero-bg"></div>
+  <div class="container hero-grid">
+    <div class="hero-photo">
+      <img src="veeranna-photo.jpg" alt="Dr. V. Veeranna">
+    </div>
+    <div class="hero-copy">
+      <span class="badge">PROFESSOR • PRINCIPAL • ACADEMIC ADMINISTRATOR</span>
+      <h1>Dr.V.Veeranna </h1>
+      <p class="lead">33+ years of teaching experience with extensive leadership in higher education, institutional development, research and academic governance.</p>
+      <div class="buttons">
+        <a class="btn gold" href="#about">Explore Profile</a>
+        <a class="btn outline" href="Veeranna.pdf" target="_blank">View Full CV</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="metrics">
+  <div class="container metrics-grid">
+    <div><strong>33+</strong><span>Years Teaching</span></div>
+    <div><strong>17</strong><span>Years Administration</span></div>
+    <div><strong>62</strong><span>Research Papers</span></div>
+    <div><strong>3</strong><span>Ph.D. Scholars Awarded</span></div>
+    <div><strong>1</strong><span>Research Scholar</span></div>
+  </div>
+</section>
+
+<section id="about" class="section">
+<div class="container split">
+  <div>
+    <p class="eyebrow">ABOUT DR. VEERANNA</p>
+    <h2>Experience, scholarship and leadership in engineering education.</h2>
+  </div>
+  <div class="text">
+    <p>Dr. V. Veeranna has 33 years of teaching experience and 17 years in academic administration as Principal and Head of Department. His professional profile spans higher education, institutional leadership, curriculum development, research and academic governance.</p>
+    <p>He has published 62 research papers in national and international journals and conferences, authored a textbook, guided three Ph.D. scholars to completion and currently mentors one research scholar.</p>
+    <div class="chips">
+      <span>Mechanical Engineering</span><span>Manufacturing Technology</span><span>CAD/CAM</span>
+      <span>FMS</span><span>IoT</span><span>Automation & Robotics</span>
+    </div>
+  </div>
+</div>
+</section>
+
+<section id="education" class="section grey">
+<div class="container">
+  <p class="eyebrow">EDUCATION</p><h2>Academic qualifications</h2>
+  <div class="edu-grid">
+    <article><span>2005</span><h3>Ph.D.</h3><b>JNTU</b><p>Design of Flexible Manufacturing System Layouts</p></article>
+    <article><span>1996</span><h3>M.E.</h3><b>R.E.C. Tiruchirappalli</b><p>Manufacturing Technology</p></article>
+    <article><span>1989</span><h3>A.M.I.E.</h3><b>The Institution of Engineers (India)</b><p>Mechanical Engineering</p></article>
+    <article><span>2025</span><h3>PG Certification</h3><b>IIITDM Kurnool</b><p>Internet of Things — AICTE-QIP</p></article>
+  </div>
+</div>
+</section>
+
+<section id="career" class="section">
+<div class="container">
+  <p class="eyebrow">PROFESSIONAL JOURNEY</p><h2>Career & employment record</h2>
+  <div class="timeline">
+    <article><time>10.02.2025 – 30.04.2026</time><div><h3>Director</h3><p>Brilliant Grammar School Educational Society Group of Institutions – Integrated Campus</p></div></article>
+    <article><time>29.11.2017 – 31.12.2024</time><div><h3>Principal</h3><p>St. Johns College of Engineering and Technology, Yemmiganur, Kurnool</p></div></article>
+    <article><time>13.10.2011 – 28.11.2017</time><div><h3>Professor & Head of Department</h3><p>Brindavan Institute of Technology & Science, Kurnool</p></div></article>
+    <article><time>02.07.2009 – 12.10.2011</time><div><h3>Principal</h3><p>Sreenivasa College of Engineering & Technology, Kurnool</p></div></article>
+    <article><time>08.06.2008 – 01.07.2009</time><div><h3>Principal</h3><p>S.S.N Engineering College, Ongole</p></div></article>
+    <article><time>02.07.2001 – 07.06.2008</time><div><h3>Associate Professor</h3><p>G. Pulla Reddy Engineering College, Kurnool</p></div></article>
+    <article><time>01.08.1997 – 01.07.2001</time><div><h3>Assistant Professor</h3><p>G. Pulla Reddy Engineering College, Kurnool</p></div></article>
+    <article><time>19.11.1992 – 31.07.1997</time><div><h3>Teaching Assistant</h3><p>G. Pulla Reddy Engineering College, Kurnool</p></div></article>
+    <article><time>01.11.1989 – 30.10.1992</time><div><h3>Production Engineer</h3><p>Lodhi Calcium Products Ltd., Dhone, Kurnool District</p></div></article>
+  </div>
+</div>
+</section>
+
+<section id="research" class="section grey">
+<div class="container">
+  <p class="eyebrow">RESEARCH & SCHOLARSHIP</p><h2>Research profile</h2>
+  <div class="research-grid">
+    <article><div class="num">01</div><h3>Research Areas</h3><p>Flexible Manufacturing Systems, metaheuristic optimization, manufacturing technology, CAD/CAM, CNC, automation, robotics, metal forming and engineering applications.</p></article>
+    <article><div class="num">02</div><h3>Research Guidance</h3><p>Three scholars have been awarded Ph.D. degrees under his guidance, with one research scholar currently being mentored.</p></article>
+    <article><div class="num">03</div><h3>Book</h3><p><b>Metaheuristics: An Advanced Optimization Method in FMS</b>, Lambert Academic Publishing, Germany, 2019.</p></article>
+    <article><div class="num">04</div><h3>Patent Application</h3><p>Graphene addition and Al4032–Graphene composites processed through ECAP. Application No. 202541064857, filed 08 July 2025.</p></article>
+  </div>
+  <div class="publication">
+    <h3>Selected publication themes</h3>
+    <ul>
+      <li>Optimization and scheduling of Flexible Manufacturing System layouts.</li>
+      <li>Hybrid nanofluid flow, heat transfer and engineering applications.</li>
+      <li>Wear behaviour and processing of Al 6061–graphene metal matrix composites.</li>
+      <li>Microstructure and mechanical properties of Al4032–graphene composites.</li>
+      <li>Integrated scheduling and non-traditional optimization techniques.</li>
+    </ul>
+  </div>
+</div>
+</section>
+
+<section id="leadership" class="section">
+<div class="container">
+  <p class="eyebrow">LEADERSHIP</p><h2>Institution building & academic contributions</h2>
+  <div class="lead-grid">
+    <article><h3>Academic Governance</h3><p>Member of Boards of Studies, Governing Councils and Governing Bodies, contributing to academic planning and institutional development.</p></article>
+    <article><h3>Accreditation & Autonomy</h3><p>During his tenure at St. Johns College of Engineering and Technology, NAAC, NBA accreditation and Autonomous status were obtained.</p></article>
+    <article><h3>Laboratory Development</h3><p>Established Mechanical Engineering laboratories in CAD/CAM, Thermal Engineering, Machine Tools, Heat Transfer, Manufacturing Technology, Instrumentation, Metrology and Fluid Mechanics.</p></article>
+    <article><h3>Professional Development</h3><p>Academic and technical engagement in AutoCAD, Sensor Guided Robotics, Robot Modelling and Simulation, Industry 4.0 and IoT.</p></article>
+  </div>
+  <div class="expertise">
+    <h3>Teaching expertise</h3>
+    <div class="chips">
+      <span>Engineering Drawing</span><span>Machine Drawing</span><span>Manufacturing Technology</span><span>Machine Tools</span>
+      <span>Metal Forming</span><span>Automation & Robotics</span><span>Metrology</span><span>Tool Design</span>
+      <span>Machine Tool Design</span><span>CAD/CAM</span><span>CNC Machines</span><span>FMS</span><span>CIMS</span>
+    </div>
+  </div>
+</div>
+</section>
+
+<section class="section grey">
+<div class="container">
+  <p class="eyebrow">HONOURS & PROFESSIONAL MEMBERSHIPS</p>
+  <h2>Recognition & professional affiliations</h2>
+  <div class="honours">
+    <article><b>2025</b><h3>Rabindranath Tagore National Award for Higher Education</h3></article>
+    <article><b>Achievement</b><h3>100% Result in Machine Drawing — Brindavan Institute of Technology & Science</h3></article>
+    <article><b>ISTE</b><h3>Life Member — LM 19363</h3></article>
+    <article><b>IE(I)</b><h3>Fellow, Institution of Engineers (India) — FIE 111650-6</h3></article>
+    <article><b>IOV</b><h3>Life Member, Institution of Valuers — FIV 26846</h3></article>
+    <article><b>NPTEL</b><h3>Introduction to Industry 4.0 and Industrial Internet of Things — IIT Kharagpur, 2025</h3></article>
+  </div>
+</div>
+</section>
+
+<section id="contact" class="contact">
+<div class="container contact-grid">
+  <div><p class="eyebrow">CONTACT</p><h2>Professional communication</h2><p>For academic, research, institutional leadership and professional collaboration.</p></div>
+  <div class="contact-box">
+    <p><strong>Email</strong><br><a href="mailto:veeranna193@gmail.com">veeranna193@gmail.com</a></p>
+    <p><strong>Mobile</strong><br><a href="tel:+919000973799">+91 90009 73799</a></p>
+    <p><strong>Address</strong><br>Kurnool, Andhra Pradesh, India</p>
+    <div class="links">
+      <a href="https://scholar.google.com/citations?user=DhoCmFcAAAAJ&hl=en" target="_blank">Google Scholar</a>
+      <a href="https://vidwan.inflibnet.ac.in/profile/620328" target="_blank">VIDWAN</a>
+      <a href="https://www.linkedin.com/in/veeranna-v-16657946" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+</div>
+</section>
+</main>
+
+<footer><div class="container footer"><span>© <span id="year"></span> Dr. V. Veeranna</span><a href="Veeranna.pdf" target="_blank">Open Full CV ↗</a></div></footer>
+<script>
+document.querySelector(".menu").addEventListener("click",()=>document.querySelector("#nav").classList.toggle("show"));
+document.querySelectorAll("#nav a").forEach(a=>a.addEventListener("click",()=>document.querySelector("#nav").classList.remove("show")));
+document.getElementById("year").textContent=new Date().getFullYear();
+</script>
+</body>
+</html>
